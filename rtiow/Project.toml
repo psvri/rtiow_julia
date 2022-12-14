@@ -1,0 +1,10 @@
+name = "rtiow"
+uuid = "904cc7f7-d7cb-4680-866b-922c02cdc65a"
+version = "0.1.0"
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
